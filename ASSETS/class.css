@@ -1,0 +1,27 @@
+body {
+    background: black;
+    padding: 32px;
+}
+
+.card {
+background-color: white;
+padding:2rem;
+border-radius: 0.5rem ;
+margin-block-end: 1rem;
+max-width: 400px;
+margin: auto;
+font-size: 1rem;
+height:500px;
+}
+
+.card-negative {
+text-align: center;
+background-color: deeppink;
+margin-top: -48px;
+padding: 1rem 2rem
+
+}
+p.footer {
+    margin-top:380px;
+    margin-bottom: 16px;
+}
